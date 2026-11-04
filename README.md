@@ -32,6 +32,18 @@ Patient360 analyzes 1,000 patients and 2,954 encounters (Jan 2023 onward) from s
 - Patients are split almost evenly by gender (509 male, 491 female).
 - Patients are spread fairly evenly across the six cities.
 - Monthly encounters show clear seasonal peaks and dips (add your own findings here).
+## Screenshots
+page 1,Patient details
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 142525" src="https://github.com/user-attachments/assets/6c3cb32f-8347-4211-a8f6-68a18c90ee09" />
+
+page 2,Encounter analysis
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 142537" src="https://github.com/user-attachments/assets/85c29fc5-967a-43bb-9671-e8d046a9e6da" />
+
+page 3,Health analysis
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 142546" src="https://github.com/user-attachments/assets/29a14b4e-e857-4b8a-811a-2a710364e56c" />
+
+page 4,Medical conditions
+![Uploading Screenshot 2026-11-04 142557.png…]()
 
 ## Author
 Asif Musthafa
