@@ -1,7 +1,5 @@
-# patient-360
+#  Patient360: Healthcare Analytics and Insights
 A healthcare data  analytics project developed using Microsoft power BI to explore patient demographics, encounters, health measuremnts and medical conditions. Features interactive dashboard , DAX measures, data modelling, and visual insights to transform synthetic healthcare data into meaningful information for data driven decision making.
-# Patient360: Healthcare Analytics and Insights
-
 An interactive Power BI dashboard that turns patient data into meaningful health insights, covering patient demographics, encounters and medical conditions across Kerala,Ernakulam.
 
 ## Overview
@@ -12,6 +10,7 @@ Patient360 analyzes 1,000 patients and 2,954 encounters (Jan 2023 onward) from s
 - Average Age: 52.39
 - Total Encounters: 2,954
 - Total Conditions: 1,570
+- Repeated patients: 795
 
 ## Dashboard Pages
 | Page | What it shows |
