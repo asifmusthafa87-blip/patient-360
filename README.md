@@ -45,8 +45,7 @@ page 3,Health analysis
 <img width="1920" height="1080" alt="Screenshot 2026-11-04 142546" src="https://github.com/user-attachments/assets/29a14b4e-e857-4b8a-811a-2a710364e56c" />
 
 page 4,Medical conditions
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43b85b2b-2d46-4dd4-b5ad-d8081388d6f3" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 142557" src="https://github.com/user-attachments/assets/1d6fb2af-4dde-440d-9d62-fff78b88e034" />
 
 ## Author
 Asif Musthafa
